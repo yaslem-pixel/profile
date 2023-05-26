@@ -1,0 +1,50 @@
+/* Colors and Fonts */
+body {
+  background-color: #65647C;
+  color: #C7BCA1;
+  font-family: 'Playfair Display', serif;
+  font-size: 16px;
+  font-weight: bold;
+
+}
+.small-image {
+  width: 200px;
+  height: auto;
+}
+
+.
+h1 {
+  color: #8B7E74;
+  font-family: 'Playfair Display', serif;
+  font-size: 40px;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+
+h2 {
+  color: #94AF9F;
+  font-family: 'Playfair Display', serif;
+  font-size: 30px;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+h3 {
+  color: #C7E9B0;
+  font-family: 'Playfair Display', serif;
+  font-size: 24px;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+a {
+  text-decoration: none;
+  color: #94AF9F;
+  transition: color 0.3s ease;
+  font-weight: bold;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #C7E9B0;
+}
